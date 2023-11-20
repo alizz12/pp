@@ -7,7 +7,7 @@
     "build": "wrangler deploy --dry-run",
     "deploy": "wrangler deploy",
     "dev": "wrangler dev --remote"
-  }
+  },
     "author": "",
     "license": "ISC",
     "devDependencies": {
